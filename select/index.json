@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "マタアイマショウ",
+  "base_artist": "SEAMO",
+  "createdAt": "2025-12-23T13:20:42.179511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マタアイマショウ",
+      "artist": "SEAMO",
+      "has_synced": true,
+      "path": "select/01_マタアイマショウ_SEAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マタアイマショウ",
+      "artist": "SEAMO",
+      "has_synced": false,
+      "path": "select/02_マタアイマショウ_SEAMO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マタアイマショウ",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/03_マタアイマショウ_Tiara.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マタアイマショウ",
+      "artist": "山猿",
+      "has_synced": true,
+      "path": "select/04_マタアイマショウ_山猿.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マタアイマショウ",
+      "artist": "SEAMO",
+      "has_synced": false,
+      "path": "select/pl_01_マタアイマショウ_SEAMO.txt"
+    }
+  ]
+}
